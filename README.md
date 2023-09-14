@@ -62,13 +62,9 @@ To harness the boundless potential of the TweetVibe Analyzer, embark on this jou
 
 - The sentiment tapestry of the training dataset weaves a tale where the chorus of "Neutral" sentiments takes center stage, followed by the harmonious notes of "Positive" and "Negative" sentiments.
 
-![Training Dataset Sentiment Distribution](training_sentiment_distribution.png)
-
 ### Validation Dataset Sentiment Distribution 📉
 
 - The sentiment panorama of the validation dataset mirrors the training dataset, with the "Neutral" sentiments donning the crown of majority.
-
-![Validation Dataset Sentiment Distribution](validation_sentiment_distribution.png)
 
 ### Machine Learning Model Performance 🤖
 
