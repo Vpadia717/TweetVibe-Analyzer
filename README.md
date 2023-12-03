@@ -1,5 +1,7 @@
 # TweetVibe Analyzer 🚀
 
+![GitHub](Github.webp)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
